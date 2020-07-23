@@ -2,7 +2,7 @@
 <p align="center"><strong>This is a school project which required us to create a program that would prompt for an mathematical operation (addition, subtraction, division, mulitplication, absolute value, square root, quadratic, pythagorean) and returns the results.</strong>
 </p>
 <h2>About</h2>
-    This school project allowed to learn and the practice the usage of conditional statements.
+    This school project demonstrated the usage of conditional statements.
 
 <h2>Goal and requirements</h2>
 
@@ -17,7 +17,7 @@
 
 <h2>Key learnings</h2>
 
-- Usage of conditional statements
+- Conditional Statements
 
 <h2>Installation</h2>
 
